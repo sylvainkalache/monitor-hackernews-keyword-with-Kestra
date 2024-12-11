@@ -1,0 +1,9 @@
+# You must encrypt the values in base64
+# Do not remove the SECRET_ from the keys are it is required by Kestra
+# More info https://kestra.io/docs/how-to-guides/secrets
+
+SECRET_CLOUDQUERY_API_KEY=
+SECRET_FROM=
+SECRET_TO=
+SECRET_USERNAME=
+SECRET_APP_PASSWORD=
